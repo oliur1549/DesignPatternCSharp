@@ -1,0 +1,13 @@
+G:\OOP Practice\FactoryMethodTest\bin\Debug\netcoreapp3.1\FactoryMethodTest.exe
+G:\OOP Practice\FactoryMethodTest\bin\Debug\netcoreapp3.1\FactoryMethodTest.deps.json
+G:\OOP Practice\FactoryMethodTest\bin\Debug\netcoreapp3.1\FactoryMethodTest.runtimeconfig.json
+G:\OOP Practice\FactoryMethodTest\bin\Debug\netcoreapp3.1\FactoryMethodTest.runtimeconfig.dev.json
+G:\OOP Practice\FactoryMethodTest\bin\Debug\netcoreapp3.1\FactoryMethodTest.dll
+G:\OOP Practice\FactoryMethodTest\bin\Debug\netcoreapp3.1\FactoryMethodTest.pdb
+G:\OOP Practice\FactoryMethodTest\obj\Debug\netcoreapp3.1\FactoryMethodTest.csprojAssemblyReference.cache
+G:\OOP Practice\FactoryMethodTest\obj\Debug\netcoreapp3.1\FactoryMethodTest.AssemblyInfoInputs.cache
+G:\OOP Practice\FactoryMethodTest\obj\Debug\netcoreapp3.1\FactoryMethodTest.AssemblyInfo.cs
+G:\OOP Practice\FactoryMethodTest\obj\Debug\netcoreapp3.1\FactoryMethodTest.csproj.CoreCompileInputs.cache
+G:\OOP Practice\FactoryMethodTest\obj\Debug\netcoreapp3.1\FactoryMethodTest.dll
+G:\OOP Practice\FactoryMethodTest\obj\Debug\netcoreapp3.1\FactoryMethodTest.pdb
+G:\OOP Practice\FactoryMethodTest\obj\Debug\netcoreapp3.1\FactoryMethodTest.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+G:\OOP Practice\efvsout\bin\Debug\netcoreapp3.1\efvsout.exe
+G:\OOP Practice\efvsout\bin\Debug\netcoreapp3.1\efvsout.deps.json
+G:\OOP Practice\efvsout\bin\Debug\netcoreapp3.1\efvsout.runtimeconfig.json
+G:\OOP Practice\efvsout\bin\Debug\netcoreapp3.1\efvsout.runtimeconfig.dev.json
+G:\OOP Practice\efvsout\bin\Debug\netcoreapp3.1\efvsout.dll
+G:\OOP Practice\efvsout\bin\Debug\netcoreapp3.1\efvsout.pdb
+G:\OOP Practice\efvsout\obj\Debug\netcoreapp3.1\efvsout.AssemblyInfoInputs.cache
+G:\OOP Practice\efvsout\obj\Debug\netcoreapp3.1\efvsout.AssemblyInfo.cs
+G:\OOP Practice\efvsout\obj\Debug\netcoreapp3.1\efvsout.csproj.CoreCompileInputs.cache
+G:\OOP Practice\efvsout\obj\Debug\netcoreapp3.1\efvsout.dll
+G:\OOP Practice\efvsout\obj\Debug\netcoreapp3.1\efvsout.pdb
+G:\OOP Practice\efvsout\obj\Debug\netcoreapp3.1\efvsout.genruntimeconfig.cache
